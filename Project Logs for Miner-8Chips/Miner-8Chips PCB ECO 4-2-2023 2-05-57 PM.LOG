@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=CLK5 Pin=BM5-8
+Removed Pin From Net: NetName=CO5 Pin=BM5-9
+Removed Pin From Net: NetName=RI5 Pin=BM5-10
+Removed Pin From Net: NetName=RST5 Pin=BM5-11
+Removed Pin From Net: NetName=BO5 Pin=BM5-12
+Removed Pin From Net: NetName=CLK6 Pin=BM6-25
+Removed Pin From Net: NetName=CO6 Pin=BM6-26
+Removed Pin From Net: NetName=RI6 Pin=BM6-27
+Removed Pin From Net: NetName=RST6 Pin=BM6-28
+Removed Pin From Net: NetName=BO6 Pin=BM6-29
+Removed Pin From Net: NetName=CLK7 Pin=BM7-8
+Removed Pin From Net: NetName=CO7 Pin=BM7-9
+Removed Pin From Net: NetName=RI7 Pin=BM7-10
+Removed Pin From Net: NetName=RST7 Pin=BM7-11
+Removed Pin From Net: NetName=BO7 Pin=BM7-12
+Removed Pin From Net: NetName=CLK8 Pin=BM8-25
+Removed Pin From Net: NetName=CO8 Pin=BM8-26
+Removed Pin From Net: NetName=RI8 Pin=BM8-27
+Removed Pin From Net: NetName=RST8 Pin=BM8-28
+Removed Pin From Net: NetName=BO8 Pin=BM8-29
+Added Component: Designator=R97(RES-SMD-1206)
+Added Component: Designator=R98(RES-SMD-1206)
+Added Component: Designator=R99(RES-SMD-1206)
+Added Component: Designator=R100(RES-SMD-1206)
+Added Component: Designator=R101(RES-SMD-1206)
+Added Component: Designator=R102(RES-SMD-1206)
+Added Component: Designator=R103(RES-SMD-1206)
+Added Component: Designator=R104(RES-SMD-1206)
+Added Component: Designator=R105(RES-SMD-1206)
+Added Component: Designator=R106(RES-SMD-1206)
+Added Component: Designator=R107(RES-SMD-1206)
+Added Component: Designator=R108(RES-SMD-1206)
+Added Component: Designator=R109(RES-SMD-1206)
+Added Component: Designator=R110(RES-SMD-1206)
+Added Component: Designator=R111(RES-SMD-1206)
+Added Component: Designator=R112(RES-SMD-1206)
+Added Component: Designator=R113(RES-SMD-1206)
+Added Component: Designator=R114(RES-SMD-1206)
+Added Component: Designator=R115(RES-SMD-1206)
+Added Component: Designator=R116(RES-SMD-1206)
+Added Pin To Net: NetName=BO6 Pin=R97-2
+Added Pin To Net: NetName=RST6 Pin=R98-2
+Added Pin To Net: NetName=RI6 Pin=R99-2
+Added Pin To Net: NetName=CO6 Pin=R100-2
+Added Pin To Net: NetName=CLK5 Pin=R101-1
+Added Pin To Net: NetName=CLK6 Pin=R102-2
+Added Pin To Net: NetName=CO5 Pin=R103-1
+Added Pin To Net: NetName=RI5 Pin=R104-1
+Added Pin To Net: NetName=RST5 Pin=R105-1
+Added Pin To Net: NetName=BO5 Pin=R106-1
+Added Pin To Net: NetName=BO8 Pin=R107-2
+Added Pin To Net: NetName=RST8 Pin=R108-2
+Added Pin To Net: NetName=RI8 Pin=R109-2
+Added Pin To Net: NetName=CO8 Pin=R110-2
+Added Pin To Net: NetName=CLK7 Pin=R111-1
+Added Pin To Net: NetName=CLK8 Pin=R112-2
+Added Pin To Net: NetName=CO7 Pin=R113-1
+Added Pin To Net: NetName=RI7 Pin=R114-1
+Added Pin To Net: NetName=RST7 Pin=R115-1
+Added Pin To Net: NetName=BO7 Pin=R116-1
+Added Pin To Net: NetName=NetBM5_8 Pin=BM5-8
+Added Pin To Net: NetName=NetBM5_8 Pin=R101-2
+Added Net: Name=NetBM5_8
+Added Pin To Net: NetName=NetBM5_9 Pin=BM5-9
+Added Pin To Net: NetName=NetBM5_9 Pin=R103-2
+Added Net: Name=NetBM5_9
+Added Pin To Net: NetName=NetBM5_10 Pin=BM5-10
+Added Pin To Net: NetName=NetBM5_10 Pin=R104-2
+Added Net: Name=NetBM5_10
+Added Pin To Net: NetName=NetBM5_11 Pin=BM5-11
+Added Pin To Net: NetName=NetBM5_11 Pin=R105-2
+Added Net: Name=NetBM5_11
+Added Pin To Net: NetName=NetBM5_12 Pin=BM5-12
+Added Pin To Net: NetName=NetBM5_12 Pin=R106-2
+Added Net: Name=NetBM5_12
+Added Pin To Net: NetName=NetBM6_25 Pin=BM6-25
+Added Pin To Net: NetName=NetBM6_25 Pin=R102-1
+Added Net: Name=NetBM6_25
+Added Pin To Net: NetName=NetBM6_26 Pin=BM6-26
+Added Pin To Net: NetName=NetBM6_26 Pin=R100-1
+Added Net: Name=NetBM6_26
+Added Pin To Net: NetName=NetBM6_27 Pin=BM6-27
+Added Pin To Net: NetName=NetBM6_27 Pin=R99-1
+Added Net: Name=NetBM6_27
+Added Pin To Net: NetName=NetBM6_28 Pin=BM6-28
+Added Pin To Net: NetName=NetBM6_28 Pin=R98-1
+Added Net: Name=NetBM6_28
+Added Pin To Net: NetName=NetBM6_29 Pin=BM6-29
+Added Pin To Net: NetName=NetBM6_29 Pin=R97-1
+Added Net: Name=NetBM6_29
+Added Pin To Net: NetName=NetBM7_8 Pin=BM7-8
+Added Pin To Net: NetName=NetBM7_8 Pin=R111-2
+Added Net: Name=NetBM7_8
+Added Pin To Net: NetName=NetBM7_9 Pin=BM7-9
+Added Pin To Net: NetName=NetBM7_9 Pin=R113-2
+Added Net: Name=NetBM7_9
+Added Pin To Net: NetName=NetBM7_10 Pin=BM7-10
+Added Pin To Net: NetName=NetBM7_10 Pin=R114-2
+Added Net: Name=NetBM7_10
+Added Pin To Net: NetName=NetBM7_11 Pin=BM7-11
+Added Pin To Net: NetName=NetBM7_11 Pin=R115-2
+Added Net: Name=NetBM7_11
+Added Pin To Net: NetName=NetBM7_12 Pin=BM7-12
+Added Pin To Net: NetName=NetBM7_12 Pin=R116-2
+Added Net: Name=NetBM7_12
+Added Pin To Net: NetName=NetBM8_25 Pin=BM8-25
+Added Pin To Net: NetName=NetBM8_25 Pin=R112-1
+Added Net: Name=NetBM8_25
+Added Pin To Net: NetName=NetBM8_26 Pin=BM8-26
+Added Pin To Net: NetName=NetBM8_26 Pin=R110-1
+Added Net: Name=NetBM8_26
+Added Pin To Net: NetName=NetBM8_27 Pin=BM8-27
+Added Pin To Net: NetName=NetBM8_27 Pin=R109-1
+Added Net: Name=NetBM8_27
+Added Pin To Net: NetName=NetBM8_28 Pin=BM8-28
+Added Pin To Net: NetName=NetBM8_28 Pin=R108-1
+Added Net: Name=NetBM8_28
+Added Pin To Net: NetName=NetBM8_29 Pin=BM8-29
+Added Pin To Net: NetName=NetBM8_29 Pin=R107-1
+Added Net: Name=NetBM8_29
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R97 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R98 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R99 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R100 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R101 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R102 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R103 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R104 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R105 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R106 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R107 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R108 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R109 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R110 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R111 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R112 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R113 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R114 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R115 33R
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component R116 33R

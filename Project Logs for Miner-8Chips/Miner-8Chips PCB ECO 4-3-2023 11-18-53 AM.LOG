@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND2 Pin=C16-2
+Added Component: Designator=R75(RES)
+Added Pin To Net: NetName=GND2 Pin=R75-2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R75-1
+Added Net: Name=NetC16_2
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R75 0R

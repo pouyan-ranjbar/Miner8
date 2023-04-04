@@ -1,0 +1,20 @@
+Added Component: Designator=R77(RES-SMD-0805)
+Added Component: Designator=R78(RES-SMD-0805)
+Added Component: Designator=R79(RES-SMD-0805)
+Added Component: Designator=R80(RES-SMD-0805)
+Added Component: Designator=R81(RES-SMD-0805)
+Added Pin To Net: NetName=CLK1 Pin=R77-1
+Added Pin To Net: NetName=NetBM1_8 Pin=R77-2
+Added Pin To Net: NetName=CO1 Pin=R78-1
+Added Pin To Net: NetName=NetBM1_9 Pin=R78-2
+Added Pin To Net: NetName=RI1 Pin=R79-1
+Added Pin To Net: NetName=NetBM1_10 Pin=R79-2
+Added Pin To Net: NetName=RST1 Pin=R80-1
+Added Pin To Net: NetName=NetBM1_11 Pin=R80-2
+Added Pin To Net: NetName=BO1 Pin=R81-1
+Added Pin To Net: NetName=NetBM1_12 Pin=R81-2
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R77 33R
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R78 33R
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R79 33R
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R80 33R
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R81 33R

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetBM8_29 Pin=R107-1
+Removed Pin From Net: NetName=NetBM8_28 Pin=R108-1
+Removed Pin From Net: NetName=NetBM8_27 Pin=R109-1
+Removed Pin From Net: NetName=NetBM8_26 Pin=R110-1
+Removed Pin From Net: NetName=NetBM8_25 Pin=R112-1
+Removed Member From Class: ClassName=BLOCK[5-8] Member=R108
+Removed Member From Class: ClassName=BLOCK[5-8] Member=R109
+Removed Member From Class: ClassName=BLOCK[5-8] Member=R110
+Removed Member From Class: ClassName=BLOCK[5-8] Member=R112
+Change Component Footprint: Designator=R107 Old Footprint=RES-SMD-1206 New Footprint=RES-SMD-0402
+Change Component Comment : Designator=R107 Old Comment=33R New Comment=4.7K
+Added Component: Designator=TP1(TEST_POINT)
+Added Pin To Net: NetName=1.8V-8 Pin=R107-1
+Added Pin To Net: NetName=NetBM8_27 Pin=R107-2
+Added Pin To Net: NetName=NetBM8_29 Pin=TP1-1
+Added Pin To Net: NetName=NetBM8_28 Pin=TP1-2
+Added Pin To Net: NetName=NetBM8_27 Pin=TP1-3
+Added Pin To Net: NetName=NetBM8_26 Pin=TP1-4
+Added Pin To Net: NetName=NetBM8_25 Pin=TP1-5
+Added Member To Class: ClassName=BLOCK[5-8] Member=Component TP1 TEST POINT

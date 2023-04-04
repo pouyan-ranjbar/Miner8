@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=1.8V-1_2 Pin=BM3-17
+Removed Pin From Net: NetName=1.8V-1_2 Pin=C31-2
+Added Pin To Net: NetName=1.8V-1_2 Pin=BM1-17
+Added Pin To Net: NetName=1.8V-1_2 Pin=C19-2
+Added Pin To Net: NetName=NetBM3_17 Pin=BM3-17
+Added Pin To Net: NetName=NetBM3_17 Pin=C31-2
+Added Net: Name=NetBM3_17

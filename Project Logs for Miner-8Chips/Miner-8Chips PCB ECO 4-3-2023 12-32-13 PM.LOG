@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=1.8V-1 Pin=C187-1
+Removed Pin From Net: NetName=3.3V-8 Pin=J1-1
+Removed Pin From Net: NetName=3.3V-7 Pin=J1-2
+Removed Pin From Net: NetName=1.8V-1 Pin=Q1-4
+Added Component: Designator=R117(RES)
+Added Component: Designator=R118(RES)
+Added Component: Designator=R119(RES)
+Added Pin To Net: NetName=3.3V-8 Pin=R117-1
+Added Pin To Net: NetName=3.3V-7 Pin=R118-1
+Added Pin To Net: NetName=1.8V-1 Pin=R119-2
+Added Pin To Net: NetName=NetC187_1 Pin=C187-1
+Added Pin To Net: NetName=NetC187_1 Pin=Q1-4
+Added Pin To Net: NetName=NetC187_1 Pin=R119-1
+Added Net: Name=NetC187_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R117-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R118-2
+Added Net: Name=NetJ1_2
+Added Member To Class: ClassName=POWER Member=Component R117 0R
+Added Member To Class: ClassName=POWER Member=Component R118 0R
+Added Member To Class: ClassName=POWER Member=Component R119 0R

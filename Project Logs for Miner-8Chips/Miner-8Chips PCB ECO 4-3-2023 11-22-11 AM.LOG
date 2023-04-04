@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3.3V-1 Pin=C21-1
+Removed Pin From Net: NetName=3.3V-1 Pin=R7-1
+Removed Pin From Net: NetName=3.3V-1 Pin=R8-1
+Removed Pin From Net: NetName=3.3V-1 Pin=R9-1
+Added Component: Designator=R76(RES)
+Added Pin To Net: NetName=3.3V-1 Pin=R76-1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=R7-1
+Added Pin To Net: NetName=NetC21_1 Pin=R8-1
+Added Pin To Net: NetName=NetC21_1 Pin=R9-1
+Added Pin To Net: NetName=NetC21_1 Pin=R76-2
+Added Net: Name=NetC21_1
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R76 0R

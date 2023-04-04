@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=BM1-13
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Added Component: Designator=R74(RES)
+Added Pin To Net: NetName=GND Pin=R74-1
+Added Pin To Net: NetName=NetBM1_13 Pin=BM1-13
+Added Pin To Net: NetName=NetBM1_13 Pin=C1-1
+Added Pin To Net: NetName=NetBM1_13 Pin=R1-1
+Added Pin To Net: NetName=NetBM1_13 Pin=R3-1
+Added Pin To Net: NetName=NetBM1_13 Pin=R5-1
+Added Pin To Net: NetName=NetBM1_13 Pin=R74-2
+Added Net: Name=NetBM1_13
+Added Member To Class: ClassName=BLOCK[1-4] Member=Component R74 0R

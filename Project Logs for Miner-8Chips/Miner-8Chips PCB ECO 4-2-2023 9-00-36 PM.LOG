@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3.3V-3 Pin=C120-1
+Removed Pin From Net: NetName=3.3V-4 Pin=C120-2
+Removed Member From Class: ClassName=BLOCK[5-8] Member=C120

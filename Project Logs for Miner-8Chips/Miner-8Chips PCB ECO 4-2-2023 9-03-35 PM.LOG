@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V-3 Pin=C117-1
+Removed Pin From Net: NetName=3.3V-4 Pin=C117-2
+Removed Pin From Net: NetName=3.3V-3 Pin=C118-1
+Removed Pin From Net: NetName=3.3V-4 Pin=C118-2
+Removed Pin From Net: NetName=3.3V-3 Pin=C119-1
+Removed Pin From Net: NetName=3.3V-4 Pin=C119-2
+Removed Member From Class: ClassName=BLOCK[5-8] Member=C117
+Removed Member From Class: ClassName=BLOCK[5-8] Member=C118
+Removed Member From Class: ClassName=BLOCK[5-8] Member=C119

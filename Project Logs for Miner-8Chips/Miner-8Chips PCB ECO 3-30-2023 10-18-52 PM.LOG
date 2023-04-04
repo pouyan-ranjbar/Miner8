@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=1.8V-1 Pin=BM2-17
+Removed Pin From Net: NetName=0.8V-1 Pin=BM2-18
+Removed Pin From Net: NetName=1.8V-1 Pin=BM3-17
+Removed Pin From Net: NetName=0.8V-1 Pin=BM3-18
+Removed Pin From Net: NetName=1.8V-1 Pin=BM4-17
+Removed Pin From Net: NetName=0.8V-1 Pin=BM4-18
+Removed Pin From Net: NetName=1.8V-1 Pin=C31-2
+Removed Pin From Net: NetName=0.8V-1 Pin=C32-2
+Removed Pin From Net: NetName=1.8V-1 Pin=C35-2
+Removed Pin From Net: NetName=0.8V-1 Pin=C36-2
+Removed Pin From Net: NetName=1.8V-1 Pin=C47-2
+Removed Pin From Net: NetName=0.8V-1 Pin=C48-2
+Added Pin To Net: NetName=0.8V-2 Pin=BM2-18
+Added Pin To Net: NetName=0.8V-3 Pin=BM3-18
+Added Pin To Net: NetName=0.8V-4 Pin=BM4-18
+Added Pin To Net: NetName=0.8V-3 Pin=C32-2
+Added Pin To Net: NetName=0.8V-2 Pin=C36-2
+Added Pin To Net: NetName=0.8V-4 Pin=C48-2
+Added Pin To Net: NetName=1.8V-2 Pin=BM2-17
+Added Pin To Net: NetName=1.8V-2 Pin=C35-2
+Added Net: Name=1.8V-2
+Added Pin To Net: NetName=1.8V-3 Pin=BM3-17
+Added Pin To Net: NetName=1.8V-3 Pin=C31-2
+Added Net: Name=1.8V-3
+Added Pin To Net: NetName=1.8V-4 Pin=BM4-17
+Added Pin To Net: NetName=1.8V-4 Pin=C47-2
+Added Net: Name=1.8V-4
